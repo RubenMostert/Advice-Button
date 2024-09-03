@@ -1,9 +1,12 @@
-# advice
+# Advice Button
 
-This is part of my 30 Day project posting where i will post Random projects everyday for 30 Days. Projects will range from Absolute beginner to advanced.
+<strong>30-Day Project Challenge</strong>
 <br>
-Day 1 - Project 1
 <br>
-This is a very very basic beginner friendly project teaching you the basics of React on fetching data.
+<strong>Day 1 - Project 1</strong>
 <br>
-Very basic fetching data from an api when the user clicks on a button and displays it on the page. Every time the user clicks it will give a random advice piece. 
+<br>
+Today’s project is a beginner-friendly introduction to React, focusing on the fundamentals of fetching data from an API. 
+<br>
+<br>
+ This simple yet practical exercise involves fetching data when a user clicks a button, displaying it dynamically on the page. Each click generates a new piece of random advice, making it a great way to get comfortable with API calls in React.
